@@ -1,0 +1,24 @@
+.p {
+    background-color: blue;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 50% auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p1 {
+    background-color:greenyellow;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    
+    
+}
